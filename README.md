@@ -2,7 +2,8 @@
 
 # 구성 환경(Version)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb4579d0-e043-4c8b-a58f-d0ae95d69296/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/83336692/147642899-67d26079-fb89-41a1-934c-b7f07d522bfc.png)
+
 
 - 구동환경
     
