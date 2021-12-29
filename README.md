@@ -347,7 +347,6 @@ $ vi /etc/kubernetes/manifests/kube-apiserver.yaml
 기존에 있는 el 삭제후 다시 설치
 
 ```yaml
-EFK_SK와는 다르게 values.yaml을 수정해서 설치합니다.
 
 ```yaml
 158 # By default this will make sure two pods don't end up on the same node
