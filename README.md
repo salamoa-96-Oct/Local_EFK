@@ -1,4 +1,4 @@
-# Local EFK 설치 가이드
+# Local EFK 설치 가이드 (kubernetes 환경)
 #### 설치일 2021-10
 # 구성 환경(Version)
 
